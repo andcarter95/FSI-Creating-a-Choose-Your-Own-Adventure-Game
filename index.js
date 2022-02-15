@@ -17,5 +17,5 @@ Do you follow it, or continue on your path?`)
     let secondAnswer = window.prompt(`You come across a snoring dragon. 
 On the other side of him, you see a shiny chest of treasure. Another path would 
 lead you away from the dragon altogether. Which path do you take?`)
-
+changes
 }
